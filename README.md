@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a Full Stack Developer from Uzbekistan
 
 <!--
 **diyorbek0309/diyorbek0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
