@@ -1,6 +1,6 @@
-# Welcome！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# Welcome!
 
-I'm [Diyorbek](https://github.com/diyorbek0309). I'm FullStack Web and Mobile Developer 👩‍💻
+I'm [Diyorbek](https://github.com/diyorbek0309). I'm FullStack Web and Mobile Developer from Uzbekistan👩‍💻
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyorbekolimov2000@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyorbek0309)
@@ -10,18 +10,14 @@ I'm [Diyorbek](https://github.com/diyorbek0309). I'm FullStack Web and Mobile De
 
 ## 🧐 About
 <div>
-
-<a href="https://github.com/diyorbek0309">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbek0309&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
-</a>
+  <a href="https://github.com/diyorbek0309">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbek0309&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+  </a>
 </div>
-</br>
-
-
 <br />
-
-<!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=diyorbek0309&theme=xcode" /></div>
-</div> -->
+<br />
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=diyorbek0309&theme=xcode" /></div>
+</div>
 
    ### Number of visits:
 <p align="center">
