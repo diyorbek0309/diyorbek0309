@@ -2,7 +2,7 @@
 
 I'm [Diyorbek](https://github.com/diyorbek0309). I'm FullStack Web and Mobile Developer from Uzbekistan👩‍💻
 
-[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-0000ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyorbek-olimov/)
+[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-4287f5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyorbek-olimov/)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyorbekolimov2000@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyorbek0309)
 
