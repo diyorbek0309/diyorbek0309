@@ -1,16 +1,29 @@
-### I am a Full Stack Developer from Uzbekistan
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-<!--
-**diyorbek0309/diyorbek0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Diyorbek](https://github.com/diyorbek0309). I'm FullStack Web and Mobile Developer 👩‍💻
 
-Here are some ideas to get you started:
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyorbekolimov2000@gmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyorbek0309)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" width='55%' src="https://github-readme-stats.vercel.app/api?username=diyorbek0309&show_icons=true&hide_border=true">
+
+## 🧐 About
+<div>
+
+<a href="https://github.com/diyorbek0309">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbek0309&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+</a>
+</div>
+</br>
+
+
+<br />
+
+<!-- <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=diyorbek0309&theme=xcode" /></div>
+</div> -->
+
+   ### Number of visits:
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{diyorbek0309}/count.svg"/>
+</p>
