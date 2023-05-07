@@ -15,7 +15,7 @@ I'm [Diyorbek](https://github.com/diyorbek0309). I'm FullStack Web and Mobile De
 </div>
 <br />
 <br />
-### Number of visits:
+ ## Number of visits:
 <p align="center">
    <img src="https://profile-counter.glitch.me/{diyorbek0309}/count.svg"/>
 </p>
